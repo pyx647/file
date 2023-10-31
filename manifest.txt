@@ -1,4 +1,3 @@
-sample-id,forward-absolute-filepath,reverse-absolute-filepath
 CRP1,/data/users/pamb/qiime/CRP1_1.fastq.gz,/data/users/pamb/qiime/CRP1_2.fastq.gz
 CRP2,/data/users/pamb/qiime/CRP2_1.fastq.gz,/data/users/pamb/qiime/CRP2_2.fastq.gz
 CRP3,/data/users/pamb/qiime/CRP3_1.fastq.gz,/data/users/pamb/qiime/CRP3_2.fastq.gz
