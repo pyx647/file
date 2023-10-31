@@ -1,0 +1,16 @@
+sample-id,forward-absolute-filepath,reverse-absolute-filepath
+CRP1,/data/users/pamb/qiime/CRP1_1.fastq.gz,/data/users/pamb/qiime/CRP1_2.fastq.gz
+CRP2,/data/users/pamb/qiime/CRP2_1.fastq.gz,/data/users/pamb/qiime/CRP2_2.fastq.gz
+CRP3,/data/users/pamb/qiime/CRP3_1.fastq.gz,/data/users/pamb/qiime/CRP3_2.fastq.gz
+CY1,/data/users/pamb/qiime/CY1_1.fastq.gz,/data/users/pamb/qiime/CY1_2.fastq.gz
+CY2,/data/users/pamb/qiime/CY2_1.fastq.gz,/data/users/pamb/qiime/CY2_2.fastq.gz
+CY3,/data/users/pamb/qiime/CY3_1.fastq.gz,/data/users/pamb/qiime/CY3_2.fastq.gz
+NRP1,/data/users/pamb/qiime/NRP1_1.fastq.gz,/data/users/pamb/qiime/NRP1_2.fastq.gz
+NRP2,/data/users/pamb/qiime/NRP2_1.fastq.gz,/data/users/pamb/qiime/NRP2_2.fastq.gz
+NRP3,/data/users/pamb/qiime/NRP3_1.fastq.gz,/data/users/pamb/qiime/NRP3_2.fastq.gz
+OY1,/data/users/pamb/qiime/OY1_1.fastq.gz,/data/users/pamb/qiime/OY1_2.fastq.gz
+OY2,/data/users/pamb/qiime/OY2_1.fastq.gz,/data/users/pamb/qiime/OY2_2.fastq.gz
+OY3,/data/users/pamb/qiime/OY3_1.fastq.gz,/data/users/pamb/qiime/OY3_2.fastq.gz
+PM1,/data/users/pamb/qiime/PM1_1.fastq.gz,/data/users/pamb/qiime/PM1_2.fastq.gz
+PM2,/data/users/pamb/qiime/PM2_1.fastq.gz,/data/users/pamb/qiime/PM2_2.fastq.gz
+PM3,/data/users/pamb/qiime/PM3_1.fastq.gz,/data/users/pamb/qiime/PM3_2.fastq.gz
